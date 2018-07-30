@@ -1,3 +1,6 @@
+## Example of Chat application with 𝐑𝐞𝐚𝐜𝐭 ⚛ Node.js Express MongoDB/Mongoose and Socket.io
+![alt MERN-socket.io-chat-example](https://image.ibb.co/df35oo/New_Project_39.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
